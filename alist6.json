@@ -1,0 +1,46 @@
+﻿{
+  "vodPic": "https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180504/82b2eff6f5bf489e9b4a90fbe9fc7e84.jpeg",
+  "drives": [
+    {
+      "name": "小丫",
+      "server": "http://alist.xiaoya.pro"
+    },
+    {
+      "name": "EVCE",
+      "server": "https://pan.ecve.cn"
+    },
+    {
+      "name": "9T",
+      "server": "https://drive.9t.ee"
+    },
+    {
+      "name": "五星棒",
+      "server": "https://qwe.aifo10086.repl.co/"
+    },
+    {
+      "name": "SOD",
+      "server": "https://a.sodaz.xyz"
+    },
+     {
+      "name": "资源站",
+      "server": "https://pan.ecve.cn" 
+    },
+     {
+      "name": "🫒罗汉果",
+      "server": "https://lala-ofbip.run.goorm.site/"
+    }
+    {
+      "name": "私房菜",
+      "server": "https://cnm.teamv1.repl.co/" 
+    },
+    {
+      "name": "珍藏",
+      "server": "https://alist.eduedu.eu.org/"
+    },
+    {
+      "name": "星梦",
+      "server": "https://pan.bashroot.top"
+    }
+    
+  ]
+}
